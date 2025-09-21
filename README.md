@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Venkat Kalyan Jogu</h1>
-<h3 align="center">🚀 Full Stack JavaScript Developer | React.js | Node.js | AWS | FinTech</h3>
+<h3 align="center">🚀 Full Stack Developer | React.js | Node.js | AWS | FinTech</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AWS+Microservices+Expert;+AI+Integration;Secure+%26+Scalable+Systems;DevOps+%7C+CI%2FCD+%7C+Automation;+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React.js+%7C+TypeScript+%7C+Node.js;AWS+Microservices+Expert;+AI;Secure+%26+Scalable+Systems;%7C+CI%2FCD;+🚀" />
 </p>
 
 ---
