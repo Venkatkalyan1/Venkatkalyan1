@@ -56,14 +56,21 @@
 
 ### 🚀 Featured Projects  
 
-- **RM Workbench** – Relationship Manager platform with **speech-to-text summaries** & **calendar sync**.  
-- **Anthem Blockchain Framework (ABF)** – AWS-based blockchain platform with **Lambda, S3, Step Functions, EventBridge**.  
-- **RFI Engine** – Automated request-for-information workflows for multiple business scenarios.  
-- **Hybrid Mobile Apps** – Cross-platform (iOS/Android/Web) with React for **faster user experiences**.  
-- **Secure Document Management** – Integrated **virus scanning, ENBD file sync, and compliance checks**.  
-
----
-
+- ### 💹 **FinTrack – Real-Time Financial Dashboard**
+Built a scalable fintech dashboard with **React**, **Node.js**, and **PostgreSQL**, improving transaction speed by **15%** and achieving **90% test coverage** via **AWS-deployed Docker/Kubernetes** pipelines.  
+🔗 [View Project](#) • [GitHub](#)  
+- ### 💳 **LoanFlow – Digital Loan Application Portal**
+Developed a secure **MERN-based loan platform** for **10K+ users** with **JWT authentication**, **GraphQL**, and **Next.js SSR**, reducing deployment time by **30%** through automated **Jenkins CI/CD** workflows.  
+🔗 [View Project](#) • [GitHub](#)
+- ### 🤖 **FinAI – AI-Powered Financial Insights Platform**
+Engineered an **AI-driven analytics engine** using **OpenAI APIs** and **TensorFlow.js** for real-time predictive insights and automated **LLM-based financial recommendations**.  
+🔗 [View Project](#) • [GitHub](#)
+- ### ☁️ **CloudOps Automation Pipeline**
+Designed a **cloud-native CI/CD framework** leveraging **AWS**, **Docker**, **Kubernetes**, and **Terraform** to automate provisioning and ensure scalable, stable software releases.  
+🔗 [View Project](#) • [GitHub](#)
+- ### 🧩 **React Component Library (UI Toolkit)**
+Created a reusable **React/TypeScript UI library** with **Storybook** and **Styled Components**, accelerating frontend development by **25%** and standardizing design systems across teams.  
+🔗 [View Project](#) • [GitHub](#)
 ### 📊 GitHub Showcase  
 
 <p align="center">
